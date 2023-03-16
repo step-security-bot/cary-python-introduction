@@ -39,9 +39,15 @@ Please **don't use** `pip install name-of-module` when installing packages.
 
 [Anaconda's Explanation of conda & pip if you want a more in-depth explanation.](https://www.anaconda.com/blog/understanding-conda-and-pip "https://www.anaconda.com/blog/understanding-conda-and-pip")
 
+## Anaconda's Free [with Account Creation] Courses
+
+- [Getting Started with Anaconda](https://freelearning.anaconda.cloud/get-started-with-anaconda)
+- [conda Basics](https://freelearning.anaconda.cloud/conda-basics)
+- [Jupyter Notebook Basics](https://freelearning.anaconda.cloud/jupyter-notebook-basics)
+
 ## Anaconda Ecosystem
 
-[Anaconda Ecosystem Documentation](https://docs.anaconda.com/)
+- [Anaconda Ecosystem Documentation](https://docs.anaconda.com/)
 
 ### Anaconda Navigator (GUI)
 
