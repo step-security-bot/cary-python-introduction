@@ -64,7 +64,7 @@ If your list of "Not Installed" packages is blank, I recommend [manually updatin
 
 ## Documentation & Modules
 
-1.[Official Python 3 Tutorial](https://docs.python.org/3/tutorial/ "https://docs.python.org/3/tutorial/")
+1. [Official Python 3 Tutorial](https://docs.python.org/3/tutorial/ "https://docs.python.org/3/tutorial/")
 
 ## Youtube Channels to Check Out
 
