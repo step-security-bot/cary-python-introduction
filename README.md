@@ -45,8 +45,8 @@ Please **don't use** `pip install name-of-module` when installing packages.
 
 ### Anaconda Navigator (GUI)
 
-[Anaconda Navigator: Getting Started](https://docs.anaconda.com/navigator/getting-started/)
-[Anaconda Navigator Documentation](https://docs.anaconda.com/navigator/)
+- [Anaconda Navigator: Getting Started](https://docs.anaconda.com/navigator/getting-started/)
+- [Anaconda Navigator Documentation](https://docs.anaconda.com/navigator/)
 
 #### Trying to Explore Packages Not Installed?
 
@@ -54,9 +54,9 @@ If your list of "Not Installed" packages is blank, I recommend [manually updatin
 
 ### conda (CLI)
 
-[conda: Getting Started](https://conda.io/projects/conda/en/latest/user-guide/getting-started.html)
-[conda Documenation](https://docs.conda.io/projects/conda/en/stable/)
-[conda Cheat Sheet](https://docs.conda.io/projects/conda/en/latest/user-guide/cheatsheet.html)
+- [conda: Getting Started](https://conda.io/projects/conda/en/latest/user-guide/getting-started.html)
+- [conda Documenation](https://docs.conda.io/projects/conda/en/stable/)
+- [conda Cheat Sheet](https://docs.conda.io/projects/conda/en/latest/user-guide/cheatsheet.html)
 
 #### Need to Rollback to a Previous Version of a conda?
 
