@@ -66,10 +66,16 @@ If your list of "Not Installed" packages is blank, I recommend [manually updatin
 
 #### Need to Rollback to a Previous Version of a conda?
 
-If you need to are experimenting and need to restore a previous version of a conda.
+If you need to are experimenting with your `conda base` environment and need to restore a previous version of a conda.
 
-1. You can use the `conda list` command with the `--revisions` flag.
-2. You can use the `conda install` command with the `--revision` flag.
+1. You can use the `conda list` command with the `--revisions` flag to view your conda revision history.
+2. You can use the `conda install` command with the `--revision` flag with the number that corresponds to the version you want to rollback to.
+
+```bash or Powershell
+conda list --revisions
+conda install --revision N
+# Replace N with the number that corresponds to the version you want to rollback to.
+```
 
 #### Trying to make conda Faster?
 
