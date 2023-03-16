@@ -1,6 +1,6 @@
 # Cary Introduction to Python & Anaconda
 
-## Navigating the File Tree
+## Navigating the File Tree in this Repository
 
 - For an Introduction to Data Analysis and a Refresher on Statistics
   - [introduction_to_data_analysis.ipynb](/notebooks/introduction_to_data_analysis.ipynb)
@@ -86,7 +86,9 @@ conda install --revision N
 
 ## Documentation & Modules
 
-1. [Official Python 3 Tutorial](https://docs.python.org/3/tutorial/ "https://docs.python.org/3/tutorial/")
+1. [Python.org's 'Whitteing Your Appetite'](https://docs.python.org/3/tutorial/appetite.html)
+2. [Python.org's Official Python 3 Tutorial](https://docs.python.org/3/tutorial/ "https://docs.python.org/3/tutorial/")
+3. [Python.org's Glossary of Terms](https://docs.python.org/3/glossary.html#glossary)
 
 ## Youtube Channels to Check Out
 
