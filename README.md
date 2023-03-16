@@ -31,9 +31,9 @@ If you have anything you want to cover, I'm open to suggestions. My previous exp
 
 1. Install your module using `conda install name-of-module`
 2. Install your module with Anaconda Navigator
-    1. Open Anaconda Navigator
-    2. Click Environments tab
-    3. Select the Environment you want to install a module into
+   1. Open Anaconda Navigator
+   2. Click Environments tab
+   3. Select the Environment you want to install a module into
 
 Please **don't use** `pip install name-of-module` when installing packages.
 
@@ -55,7 +55,14 @@ If your list of "Not Installed" packages is blank, I recommend [manually updatin
 
 [conda Documenation](https://docs.conda.io/projects/conda/en/stable/)
 
-#### Make conda Faster?
+#### Need to Rollback to a Previous Version of a conda?
+
+If you need to are experimenting and need to restore a previous version of a conda.
+
+1. You can use the `conda list` command with the `--revisions` flag.
+2. You can use the `conda install` command with the `--revision` flag.
+
+#### Trying to make conda Faster?
 
 - [Anconda: Conda is Fast Now. Like, Really Fast](https://www.anaconda.com/blog/conda-is-fast-now)
 - [conda-libmamba-solver: Getting Started](https://conda.github.io/conda-libmamba-solver/getting-started/)
@@ -69,8 +76,8 @@ If your list of "Not Installed" packages is blank, I recommend [manually updatin
 ## Youtube Channels to Check Out
 
 1. [Rob Mulla on YouTube for Data Science with Focus on Python](https://www.youtube.com/@robmulla "https://www.youtube.com/@robmulla")
-    1. [Playlist: Medallion Python Data Science Coding Videos](https://www.youtube.com/playlist?list=PL7RwtdVQXQ8qxBH6ugYn50D0M5u--2Xx4 "https://www.youtube.com/playlist?list=pl7rwtdvqxq8qxbh6ugyn50d0m5u--2xx4")
-    2. [Playlist: Working with Data in Python](https://www.youtube.com/playlist?list=PL7RwtdVQXQ8oYpuIIDWR0SaaSCe8ZeZ7t "https://www.youtube.com/playlist?list=pl7rwtdvqxq8oypuiidwr0saasce8zez7t")
+   1. [Playlist: Medallion Python Data Science Coding Videos](https://www.youtube.com/playlist?list=PL7RwtdVQXQ8qxBH6ugYn50D0M5u--2Xx4 "https://www.youtube.com/playlist?list=pl7rwtdvqxq8qxbh6ugyn50d0m5u--2xx4")
+   2. [Playlist: Working with Data in Python](https://www.youtube.com/playlist?list=PL7RwtdVQXQ8oYpuIIDWR0SaaSCe8ZeZ7t "https://www.youtube.com/playlist?list=pl7rwtdvqxq8oypuiidwr0saasce8zez7t")
 
 ## Python Modules
 
