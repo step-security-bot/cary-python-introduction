@@ -84,11 +84,17 @@ conda install --revision N
 
 ## Python 3
 
-## Documentation & Modules
+### Documentation & Modules
 
 1. [Python.org's 'Whitteing Your Appetite'](https://docs.python.org/3/tutorial/appetite.html)
 2. [Python.org's Official Python 3 Tutorial](https://docs.python.org/3/tutorial/ "https://docs.python.org/3/tutorial/")
 3. [Python.org's Glossary of Terms](https://docs.python.org/3/glossary.html#glossary)
+
+### Recommended Books
+
+I highly recommend going through the official Python 3 tutorial first. It's a great way to get your feet wet and get a feel for the language. However, here are some books I recommend if you want to go deeper or explore certain topics.
+
+1. [Automate the Boring Stuff with Python by Al Sweigart](https://automatetheboringstuff.com/)
 
 ## Youtube Channels to Check Out
 
@@ -96,8 +102,8 @@ conda install --revision N
    1. [Playlist: Medallion Python Data Science Coding Videos](https://www.youtube.com/playlist?list=PL7RwtdVQXQ8qxBH6ugYn50D0M5u--2Xx4 "https://www.youtube.com/playlist?list=pl7rwtdvqxq8qxbh6ugyn50d0m5u--2xx4")
    2. [Playlist: Working with Data in Python](https://www.youtube.com/playlist?list=PL7RwtdVQXQ8oYpuIIDWR0SaaSCe8ZeZ7t "https://www.youtube.com/playlist?list=pl7rwtdvqxq8oypuiidwr0saasce8zez7t")
 
-## Python Modules
+### Python Modules
 
-### pandas
+#### pandas
 
 [pandas Comparison to Spreadsheets](https://pandas.pydata.org/docs/getting_started/comparison/comparison_with_spreadsheets.html)
