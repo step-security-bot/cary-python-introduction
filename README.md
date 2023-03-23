@@ -86,7 +86,7 @@ conda install --revision N
 
 ### Documentation & Modules
 
-1. [Python.org's 'Whitteing Your Appetite'](https://docs.python.org/3/tutorial/appetite.html)
+1. [Python.org's 'Whetting Your Appetite'](https://docs.python.org/3/tutorial/appetite.html)
 2. [Python.org's Official Python 3 Tutorial](https://docs.python.org/3/tutorial/ "https://docs.python.org/3/tutorial/")
 3. [Python.org's Glossary of Terms](https://docs.python.org/3/glossary.html#glossary)
 
