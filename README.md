@@ -2,6 +2,34 @@
 
 ## Navigating the File Tree in this Repository
 
+```markdown
+cary-python-introduction
+ ┣ data                                          # Datasets used in the notebooks
+ ┃ ┣ food-waste-pilot
+ ┃ ┃ ┣ food-waste-pilot.csv
+ ┃ ┃ ┣ food-waste-pilot.json
+ ┃ ┃ ┗ food-waste-pilot.xlsx
+ ┃ ┗ food-waste-recycling-participation          
+ ┃ ┃ ┣ food-waste-recycling-participation.csv
+ ┃ ┃ ┣ food-waste-recycling-participation.json
+ ┃ ┃ ┗ food-waste-recycling-participation.xlsx
+ ┣ images                                        # Images used in the notebooks
+ ┃ ┗ learning.gif
+ ┣ notebooks
+ ┃ ┣ data                                        # Data used in the notebooks
+ ┃ ┃ ┣ DatasaurusDozen.tsv
+ ┃ ┃ ┣ market_segmentation_cluster_example.csv
+ ┃ ┃ ┗ sample_roc_curves.csv
+ ┃ ┣ introduction_to_data_analysis.ipynb         # Introduction to Data Analysis
+ ┃ ┣ python_101.ipynb                            # Introduction to Python
+ ┃ ┣ reading_local_files.ipynb                   # Introduction to pandas and plotly
+ ┃ ┗ stats_viz.py                                
+ ┣ environment.yml                               # Anaconda Env File for Windows
+ ┣ LICENSE
+ ┣ linux_environment.yml                         # Anaconda Env File for Linux
+ ┗ README.md
+```
+
 - For an Introduction to Data Analysis and a Refresher on Statistics
   - [introduction_to_data_analysis.ipynb](/notebooks/introduction_to_data_analysis.ipynb)
 - For an Introduction to Python
