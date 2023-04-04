@@ -20,9 +20,10 @@ cary-python-introduction
  ┃ ┃ ┣ DatasaurusDozen.tsv
  ┃ ┃ ┣ market_segmentation_cluster_example.csv
  ┃ ┃ ┗ sample_roc_curves.csv
+ ┃ ┣ intro_to_plotly.ipynb                       # Introduction to Plotly Express
  ┃ ┣ introduction_to_data_analysis.ipynb         # Introduction to Data Analysis
  ┃ ┣ python_101.ipynb                            # Introduction to Python
- ┃ ┣ reading_local_files.ipynb                   # Introduction to pandas and plotly
+ ┃ ┣ reading_local_files.ipynb                   # Introduction to pandas and matplotlib
  ┃ ┗ stats_viz.py                                
  ┣ environment.yml                               # Anaconda Env File for Windows
  ┣ LICENSE
@@ -34,8 +35,10 @@ cary-python-introduction
   - [introduction_to_data_analysis.ipynb](/notebooks/introduction_to_data_analysis.ipynb)
 - For an Introduction to Python
   - [python_101.ipynb](/notebooks/python_101.ipynb)
-- Reading Local Files & Comparison of Plotly Ecosystem and Holoviz Ecosystem
+- Reading Local Files with pandas and visualizing datasets with matplotlib
   - [reading_local_files.ipynb](/notebooks/reading_local_files.ipynb)
+- Introduction to [Plotly Express](https://plotly.com/python/plotly-express/)
+  - [intro_to_plotly.ipynb](/notebooks/intro_to_plotly.ipynb)
 
 ## Missing an Imported Module?
 
