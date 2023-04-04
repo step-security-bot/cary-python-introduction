@@ -13,10 +13,10 @@ cary-python-introduction
  ┃ ┃ ┣ food-waste-recycling-participation.csv
  ┃ ┃ ┣ food-waste-recycling-participation.json
  ┃ ┃ ┗ food-waste-recycling-participation.xlsx
- ┣ images                                        # Images used in the notebooks
+ ┣ images                                        # Images used in the Jupyter notebooks
  ┃ ┗ learning.gif
  ┣ notebooks
- ┃ ┣ data                                        # Data used in the notebooks
+ ┃ ┣ data                                        # Data used in the Jupyter notebooks
  ┃ ┃ ┣ DatasaurusDozen.tsv
  ┃ ┃ ┣ market_segmentation_cluster_example.csv
  ┃ ┃ ┗ sample_roc_curves.csv
