@@ -4,7 +4,7 @@
 
 ```markdown
 cary-python-introduction
- ┣ data                                          # Datasets used in the notebooks
+ ┣ data                                          # Datasets used in the reading_local_files.ipynb notebook
  ┃ ┣ food-waste-pilot
  ┃ ┃ ┣ food-waste-pilot.csv
  ┃ ┃ ┣ food-waste-pilot.json
