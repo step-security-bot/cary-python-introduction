@@ -39,8 +39,8 @@ cary-python-introduction
 
 ## Missing an Imported Module?
 
-1. Install your module using `conda install name-of-module`
-2. Install your module with Anaconda Navigator
+1. Install your module using `conda install name-of-module` [in your terminal or Anaconda Prompt](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-pkgs.html#id2)
+2. [Install your module with Anaconda Navigator](https://docs.anaconda.com/navigator/getting-started/#managing-packages)
    1. Open Anaconda Navigator
    2. Click Environments tab
    3. Select the Environment you want to install a module into
