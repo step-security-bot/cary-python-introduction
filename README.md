@@ -109,6 +109,8 @@ conda install --revision N
 I highly recommend going through the official Python 3 tutorial first. It's a great way to get your feet wet and get a feel for the language. However, here are some books I recommend if you want to go deeper or explore certain topics.
 
 1. [Automate the Boring Stuff with Python by Al Sweigart](https://automatetheboringstuff.com/)
+2. [Data Analysis with Pandas: 2nd Edition by Stefanie Molin](https://github.com/stefmolin/Hands-On-Data-Analysis-with-Pandas-2nd-edition)
+3. [Data Science at the Command Line: 2nd Edition by Jeoroen Janssens](https://jeroenjanssens.com/dsatcl/)
 
 ## Youtube Channels to Check Out
 
