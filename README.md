@@ -134,10 +134,12 @@ I highly recommend going through the official Python 3 tutorial first. It's a gr
   - [Binder](https://mybinder.org/) if you want interactivity (a little more setup)
   - [nbviewer](https://nbviewer.org/) if you value sharing your rendered files (less setup but not as pretty)
 
-## Side quests
+## Sidequests
 
 - How to work with the Terminal
-- How to share environment & code dependencies using Anaconda
-- Basics of version control using Git
+  - [Using Powershell](https://learn.microsoft.com/en-us/powershell/scripting/overview)
+- Basics of version control using Git & pushing to Github
+  - [Official Git Documentation & Cheatsheets](https://git-scm.com/doc)
+  - [Git & Github Crash Course for Beginners](https://www.youtube.com/watch?v=HVsySz-h9r4&list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx&index=1)
 
 If you have anything you want to cover, I'm open to suggestions. My previous experience with python covers web scraping, cleaning data, statistical analysis, and moving data into and out of databases.
