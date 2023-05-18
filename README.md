@@ -17,11 +17,17 @@ cary-python-introduction
  ┃ ┗ learning.gif
  ┣ notebooks
  ┃ ┣ data                                        # Data used in the Jupyter notebooks
+ ┃ ┃ ┣ covid19_cases.csv
  ┃ ┃ ┣ DatasaurusDozen.tsv
+ ┃ ┃ ┣ earthquakes.csv
+ ┃ ┃ ┣ fb_stock_prices_2018.csv
  ┃ ┃ ┣ market_segmentation_cluster_example.csv
  ┃ ┃ ┗ sample_roc_curves.csv
  ┃ ┣ intro_to_plotly.ipynb                       # Introduction to Plotly Express
+ ┃ ┣ introducing_matplotlib.ipynb                # Introduction to matplotlib
  ┃ ┣ introduction_to_data_analysis.ipynb         # Introduction to Data Analysis
+ ┃ ┣ pandas_plotting_module.ipynb                # Plotting with plot() method for pandas
+ ┃ ┣ plotting_with_pandas.ipynb                  # Introduction to pandas.plotting() module
  ┃ ┣ python_101.ipynb                            # Introduction to Python
  ┃ ┣ reading_local_files.ipynb                   # Introduction to pandas and matplotlib
  ┃ ┗ stats_viz.py                                
@@ -44,7 +50,7 @@ cary-python-introduction
 - Plotting with `plot()` method for pandas objects
   - [plotting_with_pandas.ipynb](/notebooks/plotting_with_pandas.ipynb)
 - Introduction to `pandas.plotting()` module
-  - [introducing_matplotlib.ipynb](/notebooks/pandas_plotting_module.ipynb)
+  - [pandas_plotting_module.ipynb](/notebooks/pandas_plotting_module.ipynb)
 
 ## Missing an Imported Module?
 
