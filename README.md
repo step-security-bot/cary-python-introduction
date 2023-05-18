@@ -109,12 +109,41 @@ conda install --revision N
 
 ## Python 3
 
-### Documentation & Modules
+### Official Documentation
 
 1. [Python.org's 'Whetting Your Appetite'](https://docs.python.org/3/tutorial/appetite.html)
 2. [Python.org's Official Python 3 Tutorial](https://docs.python.org/3/tutorial/ "https://docs.python.org/3/tutorial/")
 3. [Python.org's Glossary of Terms](https://docs.python.org/3/glossary.html#glossary)
 4. [Python.org's Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
+
+### Python Modules
+
+#### `pandas`
+
+Specializes in tabular data and introduces the DataFrame
+
+- [Landing page for `pandas`](https://pandas.pydata.org/docs/getting_started/index.html)
+- [pandas Compared to SQL Queries](https://pandas.pydata.org/docs/getting_started/comparison/comparison_with_sql.html)
+- [pandas Compared to Spreadsheets](https://pandas.pydata.org/docs/getting_started/comparison/comparison_with_spreadsheets.html)
+- [pandas Compared to SAS](https://pandas.pydata.org/docs/getting_started/comparison/comparison_with_sas.html)
+
+#### `geopandas`
+
+If you need your DataFrame to be mapped or do geospatial calculations.
+
+- [Landing page for `geopandas`](https://geopandas.org/en/stable/)
+
+#### `xarray`
+
+If you need your dataset to have more than two dimensions.
+
+- [Landing Page for `xarray`](https://docs.xarray.dev/en/stable/)
+
+### `polars`
+
+If you are working with larger-than-memory datasets.
+
+- [Landing Page for `polars`](https://pola-rs.github.io/polars-book/)
 
 ### Recommended Books
 
@@ -130,14 +159,6 @@ I highly recommend going through the official Python 3 tutorial first. It's a gr
    1. [Playlist: Medallion Python Data Science Coding Videos](https://www.youtube.com/playlist?list=PL7RwtdVQXQ8qxBH6ugYn50D0M5u--2Xx4 "https://www.youtube.com/playlist?list=pl7rwtdvqxq8qxbh6ugyn50d0m5u--2xx4")
    2. [Playlist: Working with Data in Python](https://www.youtube.com/playlist?list=PL7RwtdVQXQ8oYpuIIDWR0SaaSCe8ZeZ7t "https://www.youtube.com/playlist?list=pl7rwtdvqxq8oypuiidwr0saasce8zez7t")
 2. [Conference Talk: 1000x faster data manipulation: vectorizing with `pandas` and `numpy`](https://www.youtube.com/watch?v=nxWginnBklU "https://www.youtube.com/watch?v=nxWginnBklU")
-
-### Python Modules
-
-#### pandas
-
-[pandas Compared to SQL Queries](https://pandas.pydata.org/docs/getting_started/comparison/comparison_with_sql.html)
-[pandas Compared to Spreadsheets](https://pandas.pydata.org/docs/getting_started/comparison/comparison_with_spreadsheets.html)
-[pandas Compared to SAS](https://pandas.pydata.org/docs/getting_started/comparison/comparison_with_sas.html)
 
 ## Topics on the Table
 
