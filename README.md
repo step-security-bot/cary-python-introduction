@@ -39,6 +39,12 @@ cary-python-introduction
   - [reading_local_files.ipynb](/notebooks/reading_local_files.ipynb)
 - Introduction to [Plotly Express](https://plotly.com/python/plotly-express/)
   - [intro_to_plotly.ipynb](/notebooks/intro_to_plotly.ipynb)
+- Introduction to `matplotlib`
+  - [introducing_matplotlib.ipynb](/notebooks/introducing_matplotlib.ipynb)
+- Plotting with `plot()` method for pandas objects
+  - [plotting_with_pandas.ipynb](/notebooks/plotting_with_pandas.ipynb)
+- Introduction to `pandas.plotting()` module
+  - [introducing_matplotlib.ipynb](/notebooks/pandas_plotting_module.ipynb)
 
 ## Missing an Imported Module?
 
