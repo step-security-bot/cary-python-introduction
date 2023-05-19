@@ -141,7 +141,7 @@ If you need your dataset to have more than two dimensions.
 
 ### `polars`
 
-If you are working with larger-than-memory datasets.
+If you are working with larger-than-memory datasets and want an API similar to pandas.
 
 - [Landing Page for `polars`](https://pola-rs.github.io/polars-book/)
 
