@@ -120,11 +120,11 @@ conda install --revision N
 
 #### `pandas`
 
-Specializes in tabular data and introduces the DataFrame
+For in-memory analysis of tabular data and introduces the DataFrame
 
 - [Landing page for `pandas`](https://pandas.pydata.org/docs/getting_started/index.html)
-- [pandas Compared to SQL Queries](https://pandas.pydata.org/docs/getting_started/comparison/comparison_with_sql.html)
 - [pandas Compared to Spreadsheets](https://pandas.pydata.org/docs/getting_started/comparison/comparison_with_spreadsheets.html)
+- [pandas Compared to SQL Queries](https://pandas.pydata.org/docs/getting_started/comparison/comparison_with_sql.html)
 - [pandas Compared to SAS](https://pandas.pydata.org/docs/getting_started/comparison/comparison_with_sas.html)
 
 #### `geopandas`
