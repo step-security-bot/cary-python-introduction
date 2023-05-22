@@ -116,9 +116,9 @@ conda install --revision N
 3. [Python.org's Glossary of Terms](https://docs.python.org/3/glossary.html#glossary)
 4. [Python.org's Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 
-### Python Modules
+## Python Modules
 
-#### `pandas`
+### `pandas`
 
 For in-memory analysis of tabular data and introduces the DataFrame
 
@@ -127,19 +127,19 @@ For in-memory analysis of tabular data and introduces the DataFrame
 - [pandas Compared to SQL Queries](https://pandas.pydata.org/docs/getting_started/comparison/comparison_with_sql.html)
 - [pandas Compared to SAS](https://pandas.pydata.org/docs/getting_started/comparison/comparison_with_sas.html)
 
-#### `geopandas`
+### `geopandas`
 
 If you need your DataFrame to be mapped or do geospatial calculations.
 
 - [Landing page for `geopandas`](https://geopandas.org/en/stable/)
 
-#### `cartopy`
+### `cartopy`
 
 If you need more control over your generated map projection.
 
 - [Landing page for `cartopy`](https://scitools.org.uk/cartopy/docs/latest/)
 
-#### `xarray`
+### `xarray`
 
 If you need your dataset to have more than two dimensions.
 
@@ -151,7 +151,25 @@ If you are working with larger-than-memory datasets and want an API similar to p
 
 - [Landing Page for `polars`](https://pola-rs.github.io/polars-book/)
 
-### Recommended Books
+### `matplotlib`
+
+Highly configurable visualization library that other libraries build off of.
+
+- [Landing page for `matplotlib`](https://matplotlib.org/)
+
+### `seaborn`
+
+High-level library for generating statistical graphics.
+
+- [Landing page for `seaborn`](https://seaborn.pydata.org/)
+
+### `plotly.express`
+
+Generate interactive graphics, with a focus on exploratory analysis with visuals.
+
+- [Landing page for `plotly.express`](https://plotly.com/python/plotly-express/)
+
+## Recommended Books
 
 I highly recommend going through the official Python 3 tutorial first. It's a great way to get your feet wet and get a feel for the language. However, here are some books I recommend if you want to go deeper or explore certain topics.
 
