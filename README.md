@@ -133,6 +133,12 @@ If you need your DataFrame to be mapped or do geospatial calculations.
 
 - [Landing page for `geopandas`](https://geopandas.org/en/stable/)
 
+#### `cartopy`
+
+If you need more control over your generated map projection.
+
+- [Landing page for `cartopy`](https://scitools.org.uk/cartopy/docs/latest/)
+
 #### `xarray`
 
 If you need your dataset to have more than two dimensions.
