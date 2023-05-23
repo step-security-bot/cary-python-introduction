@@ -132,10 +132,17 @@ For in-memory analysis of tabular data and introduces the DataFrame
 If you need your DataFrame to be mapped or do geospatial calculations.
 
 - [Landing page for `geopandas`](https://geopandas.org/en/stable/)
+- [`geopandas` User Guide](https://geopandas.org/en/stable/docs/user_guide.html)
+
+### `folium`
+
+If you need more interactivity from your generated map.
+
+- [Landing page for `folium`](https://github.com/python-visualization/folium)
 
 ### `cartopy`
 
-If you need more control over your generated map projection.
+If you need more control over your generated static map projection.
 
 - [Landing page for `cartopy`](https://scitools.org.uk/cartopy/docs/latest/)
 
