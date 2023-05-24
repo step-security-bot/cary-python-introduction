@@ -23,7 +23,7 @@ cary-python-introduction
  ┃ ┃ ┣ fb_stock_prices_2018.csv
  ┃ ┃ ┣ market_segmentation_cluster_example.csv
  ┃ ┃ ┗ sample_roc_curves.csv
- ┃ ┣ intro_to_plotly.ipynb                       # Introduction to Plotly Express
+ ┃ ┣ intro_to_plotly_express.ipynb               # Introduction to Plotly Express
  ┃ ┣ introducing_matplotlib.ipynb                # Introduction to matplotlib
  ┃ ┣ introduction_to_data_analysis.ipynb         # Introduction to Data Analysis
  ┃ ┣ pandas_plotting_module.ipynb                # Plotting with plot() method for pandas
@@ -44,7 +44,7 @@ cary-python-introduction
 - Reading Local Files with pandas and visualizing datasets with matplotlib
   - [reading_local_files.ipynb](/notebooks/reading_local_files.ipynb)
 - Introduction to [Plotly Express](https://plotly.com/python/plotly-express/)
-  - [intro_to_plotly.ipynb](/notebooks/intro_to_plotly.ipynb)
+  - [intro_to_plotly_express.ipynb](/notebooks/intro_to_plotly_express.ipynb)
 - Introduction to `matplotlib`
   - [introducing_matplotlib.ipynb](/notebooks/introducing_matplotlib.ipynb)
 - Plotting with `plot()` method for pandas objects
