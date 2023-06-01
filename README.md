@@ -51,6 +51,8 @@ cary-python-introduction
   - [plotting_with_pandas.ipynb](/notebooks/plotting_with_pandas.ipynb)
 - Introduction to `pandas.plotting()` module
   - [pandas_plotting_module.ipynb](/notebooks/pandas_plotting_module.ipynb)
+- Cleaning data in `pandas`
+  - [cleaning_data.ipynb](/notebooks/cleaning_data.ipynb)
 
 ## Missing an Imported Module?
 
