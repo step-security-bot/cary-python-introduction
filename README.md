@@ -168,7 +168,7 @@ Highly configurable visualization library that other libraries build off of.
 
 ### `seaborn`
 
-High-level library for generating statistical graphics.
+High-level library for generating statistical graphics, especially for long data format.
 
 - [Landing page for `seaborn`](https://seaborn.pydata.org/)
 
