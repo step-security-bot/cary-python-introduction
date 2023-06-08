@@ -8,7 +8,7 @@
   - [python_101.ipynb](/notebooks/python_101.ipynb)
 - Reading Local Files with `pandas` and visualizing datasets with `matplotlib`
   - [reading_local_files.ipynb](/notebooks/reading_local_files.ipynb)
-- Making dataframes from API requests
+- Making DataFrames from API requests
   - [making_dataframes_from_api_requests.ipynb](/notebooks/making_dataframes_from_api_requests.ipynb)
 - What is wide vs long format data?
   - [wide_vs_long.ipynb](/notebooks/wide_vs_long.ipynb)
@@ -18,11 +18,11 @@
   - [reshaping_data.ipynb](/notebooks/reshaping_data.ipynb)
 - Handling Data Issues in `pandas`
   - [handling_data_issues.ipynb](/notebooks/handling_data_issues.ipynb)
-- Introduction to [Plotly Express](https://plotly.com/python/plotly-express/)
+- Introduction to [`plotly.express`](https://plotly.com/python/plotly-express/)
   - [intro_to_plotly_express.ipynb](/notebooks/intro_to_plotly_express.ipynb)
 - Introduction to `matplotlib`
   - [introducing_matplotlib.ipynb](/notebooks/introducing_matplotlib.ipynb)
-- Plotting with `plot()` method for pandas objects
+- Plotting with `plot()` method for `pandas` objects
   - [plotting_with_pandas.ipynb](/notebooks/plotting_with_pandas.ipynb)
 - Introduction to `pandas.plotting()` module
   - [pandas_plotting_module.ipynb](/notebooks/pandas_plotting_module.ipynb)
