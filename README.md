@@ -2,47 +2,22 @@
 
 ## Navigating the File Tree in this Repository
 
-```markdown
-cary-python-introduction
- ┣ data                                          # Datasets used in the reading_local_files.ipynb notebook
- ┃ ┣ food-waste-pilot
- ┃ ┃ ┣ food-waste-pilot.csv
- ┃ ┃ ┣ food-waste-pilot.json
- ┃ ┃ ┗ food-waste-pilot.xlsx
- ┃ ┗ food-waste-recycling-participation          
- ┃ ┃ ┣ food-waste-recycling-participation.csv
- ┃ ┃ ┣ food-waste-recycling-participation.json
- ┃ ┃ ┗ food-waste-recycling-participation.xlsx
- ┣ images                                        # Images used in the Jupyter notebooks
- ┃ ┗ learning.gif
- ┣ notebooks
- ┃ ┣ data                                        # Data used in the Jupyter notebooks
- ┃ ┃ ┣ covid19_cases.csv
- ┃ ┃ ┣ DatasaurusDozen.tsv
- ┃ ┃ ┣ earthquakes.csv
- ┃ ┃ ┣ fb_stock_prices_2018.csv
- ┃ ┃ ┣ market_segmentation_cluster_example.csv
- ┃ ┃ ┗ sample_roc_curves.csv
- ┃ ┣ intro_to_plotly_express.ipynb               # Introduction to Plotly Express
- ┃ ┣ introducing_matplotlib.ipynb                # Introduction to matplotlib
- ┃ ┣ introduction_to_data_analysis.ipynb         # Introduction to Data Analysis
- ┃ ┣ pandas_plotting_module.ipynb                # Plotting with plot() method for pandas
- ┃ ┣ plotting_with_pandas.ipynb                  # Introduction to pandas.plotting() module
- ┃ ┣ python_101.ipynb                            # Introduction to Python
- ┃ ┣ reading_local_files.ipynb                   # Introduction to pandas and matplotlib
- ┃ ┗ stats_viz.py                                
- ┣ environment.yml                               # Anaconda Env File for Windows
- ┣ LICENSE
- ┣ linux_environment.yml                         # Anaconda Env File for Linux
- ┗ README.md
-```
-
 - For an Introduction to Data Analysis and a Refresher on Statistics
   - [introduction_to_data_analysis.ipynb](/notebooks/introduction_to_data_analysis.ipynb)
 - For an Introduction to Python
   - [python_101.ipynb](/notebooks/python_101.ipynb)
-- Reading Local Files with pandas and visualizing datasets with matplotlib
+- Reading Local Files with `pandas` and visualizing datasets with `matplotlib`
   - [reading_local_files.ipynb](/notebooks/reading_local_files.ipynb)
+- Making dataframes from API requests
+  - [making_dataframes_from_api_requests.ipynb](/notebooks/making_dataframes_from_api_requests.ipynb)
+- What is wide vs long format data?
+  - [wide_vs_long.ipynb](/notebooks/wide_vs_long.ipynb)
+- Cleaning data in `pandas`
+  - [cleaning_data.ipynb](/notebooks/cleaning_data.ipynb)
+- Reshaping Data in `pandas`
+  - [reshaping_data.ipynb](/notebooks/reshaping_data.ipynb)
+- Handling Data Issues in `pandas`
+  - [handling_data_issues.ipynb](/notebooks/handling_data_issues.ipynb)
 - Introduction to [Plotly Express](https://plotly.com/python/plotly-express/)
   - [intro_to_plotly_express.ipynb](/notebooks/intro_to_plotly_express.ipynb)
 - Introduction to `matplotlib`
@@ -51,8 +26,6 @@ cary-python-introduction
   - [plotting_with_pandas.ipynb](/notebooks/plotting_with_pandas.ipynb)
 - Introduction to `pandas.plotting()` module
   - [pandas_plotting_module.ipynb](/notebooks/pandas_plotting_module.ipynb)
-- Cleaning data in `pandas`
-  - [cleaning_data.ipynb](/notebooks/cleaning_data.ipynb)
 
 ## Missing an Imported Module?
 
