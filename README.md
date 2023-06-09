@@ -6,7 +6,7 @@
   - [introduction_to_data_analysis.ipynb](/notebooks/introduction_to_data_analysis.ipynb)
 - For an Introduction to Python
   - [python_101.ipynb](/notebooks/python_101.ipynb)
-- Handling Common Errors in Python 3
+- Handling Common Errors in Python
   - [python_101.ipynb](/notebooks/python_errors.ipynb)
 - Reading Local Files with `pandas` and visualizing datasets with `matplotlib`
   - [reading_local_files.ipynb](/notebooks/reading_local_files.ipynb)
