@@ -159,12 +159,14 @@ I highly recommend going through the official Python 3 tutorial first. It's a gr
 2. [Data Analysis with Pandas: 2nd Edition by Stefanie Molin](https://github.com/stefmolin/Hands-On-Data-Analysis-with-Pandas-2nd-edition)
 3. [Data Science at the Command Line: 2nd Edition by Jeoroen Janssens](https://jeroenjanssens.com/dsatcl/)
 
-## Youtube Channels to Check Out
+## Youtube Resources to Check Out
 
 1. [Rob Mulla on YouTube for Data Science with Focus on Python](https://www.youtube.com/@robmulla "https://www.youtube.com/@robmulla")
    1. [Playlist: Medallion Python Data Science Coding Videos](https://www.youtube.com/playlist?list=PL7RwtdVQXQ8qxBH6ugYn50D0M5u--2Xx4 "https://www.youtube.com/playlist?list=pl7rwtdvqxq8qxbh6ugyn50d0m5u--2xx4")
    2. [Playlist: Working with Data in Python](https://www.youtube.com/playlist?list=PL7RwtdVQXQ8oYpuIIDWR0SaaSCe8ZeZ7t "https://www.youtube.com/playlist?list=pl7rwtdvqxq8oypuiidwr0saasce8zez7t")
 2. [Conference Talk: 1000x faster data manipulation: vectorizing with `pandas` and `numpy`](https://www.youtube.com/watch?v=nxWginnBklU "https://www.youtube.com/watch?v=nxWginnBklU")
+3. [Conference Talk: No More Sad Pandas: Optimizing Pandas Code for Sped and Efficiency](https://www.youtube.com/watch?v=HN5d490_KKk)
+4. [Conference Talk: Effective Pandas](https://www.youtube.com/watch?v=zgbUk90aQ6A)
 
 ## Topics on the Table
 
