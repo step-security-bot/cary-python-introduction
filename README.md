@@ -166,9 +166,11 @@ I highly recommend going through the official Python 3 tutorial first. It's a gr
 1. [Rob Mulla on YouTube for Data Science with Focus on Python](https://www.youtube.com/@robmulla "https://www.youtube.com/@robmulla")
    1. [Playlist: Medallion Python Data Science Coding Videos](https://www.youtube.com/playlist?list=PL7RwtdVQXQ8qxBH6ugYn50D0M5u--2Xx4 "https://www.youtube.com/playlist?list=pl7rwtdvqxq8qxbh6ugyn50d0m5u--2xx4")
    2. [Playlist: Working with Data in Python](https://www.youtube.com/playlist?list=PL7RwtdVQXQ8oYpuIIDWR0SaaSCe8ZeZ7t "https://www.youtube.com/playlist?list=pl7rwtdvqxq8oypuiidwr0saasce8zez7t")
-2. [Conference Talk: 1000x faster data manipulation: vectorizing with `pandas` and `numpy`](https://www.youtube.com/watch?v=nxWginnBklU "https://www.youtube.com/watch?v=nxWginnBklU")
-3. [Conference Talk: No More Sad Pandas: Optimizing Pandas Code for Sped and Efficiency](https://www.youtube.com/watch?v=HN5d490_KKk)
-4. [Conference Talk: Effective Pandas](https://www.youtube.com/watch?v=zgbUk90aQ6A)
+2. [Conference Talk: So you want to be a Python expert?](https://www.youtube.com/watch?v=cKPlPJyQrt4)
+3. [Conference Talk: 1000x faster data manipulation: vectorizing with `pandas` and `numpy`](https://www.youtube.com/watch?v=nxWginnBklU "https://www.youtube.com/watch?v=nxWginnBklU")
+4. [Conference Talk: No More Sad Pandas: Optimizing Pandas Code for Sped and Efficiency](https://www.youtube.com/watch?v=HN5d490_KKk)
+5. [Conference Talk: Effective Pandas](https://www.youtube.com/watch?v=zgbUk90aQ6A)
+6. [Conference Tutorial: So You Wanna Be a Pandas Expert?](https://www.youtube.com/watch?v=pjq3QOxl9Ok)
 
 ## Topics on the Table
 
